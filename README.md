@@ -1,2 +1,2 @@
 # latihan-branching
-repo ini akan kugunakan untuk membuat branch 
+readme yang berbeda dari branch main
